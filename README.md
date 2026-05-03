@@ -32,8 +32,8 @@ Mochi Web Agent is a no-code web automation tool for Windows. Record your browse
 
 🔗 Official Links
 
-Official Website: mochi-apps.com
+Official Website: [mochi-apps.com](https://mochi-apps.com/)
 
-How to Use: Quick Start Guide
+How to Use: [mochi-apps.com/how_to_use](https://mochi-apps.com/how_to_use)
 
 Support: deepsleep444@gmail.com
